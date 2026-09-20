@@ -9,7 +9,7 @@ created_on: 2026-07-20
 
 ## はじめに
 
-この記事は、2024 年 7 月 25 日 (金)、26 日 (土) に シンガポールにて開催された [Red Dot Ruby Conference 2024](https://reddotrubyconf.com/) 
+この記事は、2024 年 7 月 25 日 (金)、26 日 (土) にシンガポールにて開催された [Red Dot Ruby Conference 2024](https://reddotrubyconf.com/) 
 の参加レポートです。  
 記事の内容は、日本からの参加者の一人であるえりりんが参加してきた感想などをまとめた記事となります。  
 写真は私と柴田さんが撮影したものです。
@@ -18,7 +18,7 @@ created_on: 2026-07-20
 > Red Dot Ruby Conference (RDRC) is the only Ruby programming language conference in Singapore, bringing together 
 > the brightest minds in the Ruby community in the region since 2011.  
 > After a brief hiatus due to the global pandemic in 2020, we are excited to reboot in 2024 and celebrating the 
-programming language we all know and love. We can't wait to meet in Singapore!  
+> programming language we all know and love. We can't wait to meet in Singapore!  
 > (公式サイトの文言より引用)
 
 上記に書かれている通り、2011年からシンガポールで開催されているRubyのカンファレンスです。2020年以降コロナの影響で開催されていませんでしたが、2024年に再開されました。
@@ -38,7 +38,7 @@ programming language we all know and love. We can't wait to meet in Singapore!
 
 場所も駅から出たすぐのところにあったので、とてもアクセスがしやすかったです。
 
-日本からは私を含めて、Rubyコミッターとして招待公演を行った[柴田さん](https://github.com/hsbt)、CfPで採択された[大倉さん](https://github.com/okuramasafumi)と私が現地参加しました。  
+日本からは私を含めて、Rubyコミッターとして招待講演を行った[柴田さん](https://github.com/hsbt)、CfPで採択された[大倉さん](https://github.com/okuramasafumi)と私が現地参加しました。  
 Matz もキーノート登壇があったのですが、録画での参加だったため現地でお会いすることはできませんでした。
 
 セッションは1並列のみなので全員で聴く形になります。  
@@ -96,7 +96,7 @@ Matz もキーノート登壇があったのですが、録画での参加だっ
 ホテルをとったブギスも同様に、歴史的街並みと近代開発が融合するエネルギッシュなエリアへと進化しています。どこへ行っても絶えず工事が進み、訪れるたびに景色が変わるシンガポールを懐かしくも感じました。その圧倒的な都市開発の勢いと熱気からは、東南アジアの成長国家ならではのパワーを改めて強く実感しました。円安で厳しい昨今ですが、また訪問する機会があれば行きたい国の1つです。
 ### 大倉さん
 初参加のRedDotRubyConferenceでした。私はDSLの話をしましたが、それ以外も全体的に「Ruby/Railsをどう使うか」の話が多かった印象です。ランチもシンガポールっぽい内容で楽しめました。
-シンガポールを訪れるのは20年ぶり2度目でしたが、前回行ったときに比べて色々変わっていたような気がします（正直あまり覚えてないですが…笑）特に物価の上昇が著しい中、チャイナコンプレックスというビルの中の中華街エリアは非常に庶民的な価格かつ昔のシンガポールっぽい雰囲気を残しているのではと感じました。そのチャイナコンプレックスから10分ほど歩くと近代的な高層ビルが建ち並ぶエリアに出るあたり、都市国家であるシンガポールらしくて面白いですね。
+シンガポールを訪れるのは20年ぶり2度目でしたが、前回行ったときに比べて色々変わっていたような気がします（正直あまり覚えてないですが…笑）。特に物価の上昇が著しい中、チャイナコンプレックスというビルの中の中華街エリアは非常に庶民的な価格かつ昔のシンガポールっぽい雰囲気を残しているのではと感じました。そのチャイナコンプレックスから10分ほど歩くと近代的な高層ビルが建ち並ぶエリアに出るあたり、都市国家であるシンガポールらしくて面白いですね。
 また、今回は1泊2日でマレーシアのジョホールバルに行きました。バスに乗って1時間もするともう国境線で、そこから検問などを経てマレーシアに入国すると雰囲気も変わり、旅の醍醐味を味わいました。一方、そのためにシンガポール内でまだ行けていないエリアもたくさんあります。
 次回のRedDotRubyConfがもしあれば、またプロポーザルを出したいと思います。
 ## カンファレンス以外の活動
@@ -127,5 +127,5 @@ Matz もキーノート登壇があったのですが、録画での参加だっ
 
 ## 書いた人
 
-えりりん。 X: [@suuuuengch](https://x.com/suuuuengch), GitHub: [@ericgpks](https://github.com/ericgpks) 
-。パン作りエンジニア。Ruby や Ruby on Rails が大好き。Ruby が好きな人とつながりたい。趣味はパン作り・読書・海外旅行です。
+えりりん。 X: [@suuuuengch](https://x.com/suuuuengch), GitHub: [@ericgpks](https://github.com/ericgpks)。
+パン作りエンジニア。Ruby や Ruby on Rails が大好き。Ruby が好きな人とつながりたい。趣味はパン作り・読書・海外旅行です。
