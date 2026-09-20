@@ -3,7 +3,7 @@ layout: post
 title: Red Dot Ruby Conference 2024 参加レポート
 short_title: Red Dot Ruby Conference 2024
 post_author: えりりん
-created_on: 2026-07-20
+created_on: 2026-09-21
 ---
 {% include base.html %}
 
